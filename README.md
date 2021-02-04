@@ -2,6 +2,6 @@
 
 Client side only mod for displaying anvil level costs over 40 (which means the server needs to remove the limit).
 
-Intended to work with [AnvilFix](https://github.com/OnyxStudios/AnvilFix) being used with a Fabric server, but a Forge client.
+Intended to be used on a Forge client when playing on a Fabric server with [AnvilFix](https://github.com/OnyxStudios/AnvilFix), but there might be other uses.
 
 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/expanvils)
