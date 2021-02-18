@@ -1,4 +1,5 @@
-# ExperiencedAnvils [![CurseForge](http://cf.way2muchnoise.eu/full_443044_downloads.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/expanvils "Experienced Anvils on CurseForge")
+[![CurseForge](http://cf.way2muchnoise.eu/full_443044_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/expanvils "Experienced Anvils on CurseForge") ![CurseForge](http://cf.way2muchnoise.eu/versions/443044.svg)
+# Experienced Anvils 
 
 Client side only mod for displaying anvil level costs over 39 (which means the server needs to remove the limit).
 
