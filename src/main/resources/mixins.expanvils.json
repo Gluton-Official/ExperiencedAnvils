@@ -1,0 +1,13 @@
+{
+	"package": "com.gluton.expanvils.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"minVersion": "0.8",
+	"refmap": "expanvils.refmap.json",
+	"mixins": [
+		"RepairContainerMixin"
+	],
+	"client": [],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
