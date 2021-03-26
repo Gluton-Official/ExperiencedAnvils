@@ -25,3 +25,5 @@ run
 forge*changelog.txt
 
 README.txt
+*.log
+*Test.java
