@@ -1,7 +1,7 @@
 [![CurseForge](http://cf.way2muchnoise.eu/full_443044_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/expanvils "Experienced Anvils on CurseForge") ![CurseForge](http://cf.way2muchnoise.eu/versions/443044.svg)
 # Experienced Anvils 
 
-Removes the 39 xp level limit in anvils. 
+Removes the level 39 xp cost limit in anvils.
 
 This mod still partially works when only present on one side  
  \- Server side: removes the level limit  
