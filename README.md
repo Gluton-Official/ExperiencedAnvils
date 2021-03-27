@@ -11,4 +11,4 @@ Can also fix the anvil text if playing on a vanilla-compatible Fabric server wit
 
 NOTE: renaming an item will still cost at most 39 levels
 
-Please create an [issue](https://github.com/Gluton-Official/ExperiencedAnvils/issues) if you find a scenario where the incorrect text is shown in an anvil, or if would like compatability with another mod.
+Please create an [issue](https://github.com/Gluton-Official/ExperiencedAnvils/issues) if you find a scenario where the incorrect text is shown in an anvil, or would like compatability with another mod.
