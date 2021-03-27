@@ -10,3 +10,5 @@ This mod still partially works when only present on one side
 Can also fix the anvil text if playing on a vanilla-compatible Fabric server with [![CurseForge](http://cf.way2muchnoise.eu/title/305480.svg)](https://www.curseforge.com/minecraft/mc-mods/anvil-fix "AnvilFix on CurseForge"), or possibly other Fabric mods that remove the xp limit.
 
 NOTE: renaming an item will still cost at most 39 levels
+
+Please create an [issue](https://github.com/Gluton-Official/ExperiencedAnvils/issues) if you find a scenario where the incorrect text is shown in an anvil, or if would like compatability with another mod.
