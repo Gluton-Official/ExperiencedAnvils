@@ -1,8 +1,6 @@
 package com.gluton.expanvils;
 
 import org.apache.commons.lang3.tuple.Pair;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
 import net.minecraftforge.fml.ExtensionPoint;
 import net.minecraftforge.fml.ModLoadingContext;
@@ -14,8 +12,6 @@ import net.minecraftforge.fml.network.FMLNetworkConstants;
  */
 @Mod("expanvils")
 public class ExperiencedAnvils {
-	
-	public static final Logger LOGGER = LogManager.getLogger();
 	
 	public ExperiencedAnvils() {
 		ModLoadingContext.get().registerExtensionPoint(ExtensionPoint.DISPLAYTEST,
